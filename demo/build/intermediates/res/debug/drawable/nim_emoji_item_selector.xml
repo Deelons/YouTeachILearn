@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true" android:drawable="@drawable/nim_emoji_ck_bg" />
+    <item android:state_pressed="false" android:drawable="@android:color/transparent" />
+</selector><!-- From: file:/D:/学习/Learn%20to%20Android/nim_demo/uikit/res/drawable/nim_emoji_item_selector.xml --><!-- From: file:/D:/学习/Learn%20to%20Android/nim_demo/demo/build/intermediates/exploded-aar/nim_demo/uikit/unspecified/res/drawable/nim_emoji_item_selector.xml -->
