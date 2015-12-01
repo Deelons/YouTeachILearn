@@ -125,4 +125,11 @@ public class MainActivity extends ActionBarActivity implements View.OnClickListe
         ft.commit();
 
     }
+    
+    @Override
+    public void onBackPressed() {
+
+        moveTaskToBack(true);
+//        super.onBackPressed();
+    }
 }

@@ -109,15 +109,17 @@ public class ContactsActivity extends TActionBarActivity {
 
     @Override
     public void onBackPressed() {
-        if (mainFragment != null) {
-            if (mainFragment.onBackPressed()) {
-                return;
-            } else {
-                moveTaskToBack(true);
-            }
-        } else {
-            super.onBackPressed();
-        }
+//        if (mainFragment != null) {
+//            if (mainFragment.onBackPressed()) {
+//                return;
+//            } else {
+//                moveTaskToBack(true);
+//            }
+//        } else {
+//            super.onBackPressed();
+//        }
+    	
+    	super.onBackPressed();
     }
 
     @Override

@@ -1,4 +1,4 @@
-package com.netease.nim.demo.main.activity;
+﻿package com.netease.nim.demo.main.activity;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -166,7 +166,12 @@ public class WelcomeActivity extends TActivity {
     }
 
     private void showMainActivity() {
-        showMainActivity(null);
+       // showMainActivity(null);
+
+	Intent intent=new Intent();
+	intent.setClass(this,MainActivity.class);
+  
+        startActivity(intent);
     }
 
     private void showMainActivity(Intent intent) {
