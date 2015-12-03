@@ -15,4 +15,4 @@
         android:maxWidth="@dimen/max_text_bubble_width"
         android:textColor="@color/color_black_b3000000"
         android:textSize="16sp"/>
-</LinearLayout><!-- From: file:/D:/nim_demo/uikit/res/layout/nim_message_item_text.xml --><!-- From: file:/D:/nim_demo/uikit/build/intermediates/bundles/debug/res/layout/nim_message_item_text.xml -->
+</LinearLayout><!-- From: file:/D:/Github/YouTeachILearn/uikit/res/layout/nim_message_item_text.xml --><!-- From: file:/D:/Github/YouTeachILearn/uikit/build/intermediates/bundles/debug/res/layout/nim_message_item_text.xml -->

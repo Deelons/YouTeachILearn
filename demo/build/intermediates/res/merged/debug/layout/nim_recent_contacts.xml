@@ -40,4 +40,4 @@
             android:layout_marginTop="5dip"
             android:gravity="center"/>
     </RelativeLayout>
-</FrameLayout><!-- From: file:/D:/nim_demo/uikit/res/layout/nim_recent_contacts.xml --><!-- From: file:/D:/nim_demo/demo/build/intermediates/exploded-aar/nim_demo/uikit/unspecified/res/layout/nim_recent_contacts.xml -->
+</FrameLayout><!-- From: file:/D:/Github/YouTeachILearn/uikit/res/layout/nim_recent_contacts.xml --><!-- From: file:/D:/Github/YouTeachILearn/demo/build/intermediates/exploded-aar/YouTeachILearn/uikit/unspecified/res/layout/nim_recent_contacts.xml -->

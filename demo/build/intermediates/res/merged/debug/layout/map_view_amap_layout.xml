@@ -46,4 +46,4 @@
     <View android:id="@+id/assist_my_location" android:layout_width="match_parent" android:layout_height="24dip"
         android:layout_alignParentBottom="true"/>
     
-</RelativeLayout><!-- From: file:/D:/nim_demo/demo/res/layout/map_view_amap_layout.xml -->
+</RelativeLayout><!-- From: file:/D:/Github/YouTeachILearn/demo/res/layout/map_view_amap_layout.xml -->

@@ -7,4 +7,4 @@
     android:layout_gravity="center"
     android:indeterminate="true"
     android:visibility="gone" />
-<!-- From: file:/D:/nim_demo/uikit/res/layout/nim_zbra_loading_progress_bar.xml --><!-- From: file:/D:/nim_demo/uikit/build/intermediates/bundles/debug/res/layout/nim_zbra_loading_progress_bar.xml -->
+<!-- From: file:/D:/Github/YouTeachILearn/uikit/res/layout/nim_zbra_loading_progress_bar.xml --><!-- From: file:/D:/Github/YouTeachILearn/uikit/build/intermediates/bundles/debug/res/layout/nim_zbra_loading_progress_bar.xml -->

@@ -17,4 +17,4 @@
         android:contentDescription="@string/empty"
         android:src="@drawable/nim_picker_preview_unselected" />
 
-</LinearLayout><!-- From: file:/D:/nim_demo/uikit/res/layout/nim_action_bar_right_picker_preview.xml --><!-- From: file:/D:/nim_demo/uikit/build/intermediates/bundles/debug/res/layout/nim_action_bar_right_picker_preview.xml -->
+</LinearLayout><!-- From: file:/D:/Github/YouTeachILearn/uikit/res/layout/nim_action_bar_right_picker_preview.xml --><!-- From: file:/D:/Github/YouTeachILearn/uikit/build/intermediates/bundles/debug/res/layout/nim_action_bar_right_picker_preview.xml -->

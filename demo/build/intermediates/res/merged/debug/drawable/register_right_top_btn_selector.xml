@@ -5,4 +5,4 @@
     <item android:drawable="@drawable/register_right_top_btn_disable" android:state_enabled="false"></item>
     <item android:drawable="@drawable/register_right_top_btn_normal"></item>
 
-</selector><!-- From: file:/D:/nim_demo/demo/res/drawable/register_right_top_btn_selector.xml -->
+</selector><!-- From: file:/D:/Github/YouTeachILearn/demo/res/drawable/register_right_top_btn_selector.xml -->

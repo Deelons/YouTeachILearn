@@ -4,4 +4,4 @@
     <item android:drawable="@drawable/video_audio_mode_switch_bg_pressed" android:state_pressed="true" />
     <item android:drawable="@drawable/video_audio_mode_switch_bg_normal" />
 
-</selector><!-- From: file:/D:/nim_demo/demo/res/drawable/video_audio_mode_switch_bg.xml -->
+</selector><!-- From: file:/D:/Github/YouTeachILearn/demo/res/drawable/video_audio_mode_switch_bg.xml -->

@@ -51,4 +51,4 @@
         android:layout_marginRight="10dp"
         android:layout_toRightOf="@id/img_head" />
 
-</RelativeLayout><!-- From: file:/D:/nim_demo/demo/res/layout/func_contacts_item.xml -->
+</RelativeLayout><!-- From: file:/D:/Github/YouTeachILearn/demo/res/layout/func_contacts_item.xml -->

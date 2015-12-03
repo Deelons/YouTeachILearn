@@ -2,16 +2,12 @@ package com.netease.nim.demo.main.fragment;
 
 import android.annotation.TargetApi;
 import android.app.Fragment;
-import android.content.Intent;
 import android.os.Build;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.Button;
-
 import com.netease.nim.demo.R;
-import com.netease.nim.demo.main.activity.DiscoverdetailActivity;
 
 /**
  * Created by lsr on 2015/11/18.
@@ -28,18 +24,7 @@ public class DiscoverFragment extends Fragment {
     @TargetApi(Build.VERSION_CODES.HONEYCOMB)
     @Override
     public void onStart() {
-
         super.onStart();
-
-        Button testBtn = (Button) getView().findViewById(R.id.testBtn);
-        testBtn.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent intent = new Intent();
-                intent.setClass(getActivity(), DiscoverdetailActivity.class);
-                startActivity(intent);
-            }
-        });
     }
 
     /*

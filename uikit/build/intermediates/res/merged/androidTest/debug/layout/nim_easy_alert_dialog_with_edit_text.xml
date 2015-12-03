@@ -48,4 +48,4 @@
 
     <include
         layout="@layout/nim_easy_alert_dialog_bottom_button" />
-</LinearLayout><!-- From: file:/D:/nim_demo/uikit/res/layout/nim_easy_alert_dialog_with_edit_text.xml --><!-- From: file:/D:/nim_demo/uikit/build/intermediates/bundles/debug/res/layout/nim_easy_alert_dialog_with_edit_text.xml -->
+</LinearLayout><!-- From: file:/D:/Github/YouTeachILearn/uikit/res/layout/nim_easy_alert_dialog_with_edit_text.xml --><!-- From: file:/D:/Github/YouTeachILearn/uikit/build/intermediates/bundles/debug/res/layout/nim_easy_alert_dialog_with_edit_text.xml -->

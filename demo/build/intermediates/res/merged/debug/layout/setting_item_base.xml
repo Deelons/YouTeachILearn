@@ -115,4 +115,4 @@
         android:layout_toRightOf="@+id/settings_item_icon"
         android:visibility="gone" />
 
-</RelativeLayout><!-- From: file:/D:/nim_demo/demo/res/layout/setting_item_base.xml -->
+</RelativeLayout><!-- From: file:/D:/Github/YouTeachILearn/demo/res/layout/setting_item_base.xml -->

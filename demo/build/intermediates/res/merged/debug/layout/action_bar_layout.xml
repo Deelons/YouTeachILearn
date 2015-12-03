@@ -41,4 +41,4 @@
         android:textColor="@color/action_bar_tittle_color_555555"
         android:textSize="@dimen/actionbar_title_size" />
 
-</RelativeLayout><!-- From: file:/D:/nim_demo/demo/res/layout/action_bar_layout.xml -->
+</RelativeLayout><!-- From: file:/D:/Github/YouTeachILearn/demo/res/layout/action_bar_layout.xml -->

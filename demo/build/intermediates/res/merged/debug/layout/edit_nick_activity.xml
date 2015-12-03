@@ -20,4 +20,4 @@
         android:paddingRight="15dp"
         android:textColor="@color/color_black_333333"
         android:textColorHint="@color/contact_letter_idx_bg"/>
-</LinearLayout><!-- From: file:/D:/nim_demo/demo/res/layout/edit_nick_activity.xml -->
+</LinearLayout><!-- From: file:/D:/Github/YouTeachILearn/demo/res/layout/edit_nick_activity.xml -->

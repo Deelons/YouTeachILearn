@@ -14,4 +14,4 @@
         android:dividerHeight="1px" >
     </com.netease.nim.uikit.common.ui.popupmenu.PopupMenuListView>
 
-</RelativeLayout><!-- From: file:/D:/nim_demo/uikit/res/layout/nim_popup_menu_black_layout.xml --><!-- From: file:/D:/nim_demo/uikit/build/intermediates/bundles/debug/res/layout/nim_popup_menu_black_layout.xml -->
+</RelativeLayout><!-- From: file:/D:/Github/YouTeachILearn/uikit/res/layout/nim_popup_menu_black_layout.xml --><!-- From: file:/D:/Github/YouTeachILearn/uikit/build/intermediates/bundles/debug/res/layout/nim_popup_menu_black_layout.xml -->

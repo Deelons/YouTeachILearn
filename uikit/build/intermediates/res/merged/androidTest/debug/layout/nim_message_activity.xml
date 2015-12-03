@@ -6,4 +6,4 @@
               android:layout_height="match_parent"
               android:paddingTop="@dimen/action_bar_height">
 
-</LinearLayout><!-- From: file:/D:/nim_demo/uikit/res/layout/nim_message_activity.xml --><!-- From: file:/D:/nim_demo/uikit/build/intermediates/bundles/debug/res/layout/nim_message_activity.xml -->
+</LinearLayout><!-- From: file:/D:/Github/YouTeachILearn/uikit/res/layout/nim_message_activity.xml --><!-- From: file:/D:/Github/YouTeachILearn/uikit/build/intermediates/bundles/debug/res/layout/nim_message_activity.xml -->

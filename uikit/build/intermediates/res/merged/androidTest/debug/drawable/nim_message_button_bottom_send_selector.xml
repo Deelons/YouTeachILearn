@@ -5,4 +5,4 @@
     <item android:drawable="@drawable/nim_message_input_send_pressed" android:state_enabled="false"/>
     <item android:drawable="@drawable/nim_message_input_send_normal"/>
 
-</selector><!-- From: file:/D:/nim_demo/uikit/res/drawable/nim_message_button_bottom_send_selector.xml --><!-- From: file:/D:/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable/nim_message_button_bottom_send_selector.xml -->
+</selector><!-- From: file:/D:/Github/YouTeachILearn/uikit/res/drawable/nim_message_button_bottom_send_selector.xml --><!-- From: file:/D:/Github/YouTeachILearn/uikit/build/intermediates/bundles/debug/res/drawable/nim_message_button_bottom_send_selector.xml -->

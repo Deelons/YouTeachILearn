@@ -6,4 +6,4 @@
     <item android:drawable="@drawable/avchat_mute_pressed" android:state_selected="true" />
     <item android:drawable="@drawable/avchat_mute_normal" />
 
-</selector><!-- From: file:/D:/nim_demo/demo/res/drawable/avchat_mute_bg.xml -->
+</selector><!-- From: file:/D:/Github/YouTeachILearn/demo/res/drawable/avchat_mute_bg.xml -->

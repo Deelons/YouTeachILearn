@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/D:/nim_demo/uikit/res/values/arrays.xml -->
+    <!-- From: file:/D:/Github/YouTeachILearn/uikit/res/values/arrays.xml -->
     <eat-comment/>
     <string-array name="letter_list">
         <item>↑</item>
@@ -63,7 +63,7 @@
         <item>Y</item>
         <item>Z</item>
     </string-array>
-    <!-- From: file:/D:/nim_demo/uikit/res/values/colors.xml -->
+    <!-- From: file:/D:/Github/YouTeachILearn/uikit/res/values/colors.xml -->
     <eat-comment/>
     <color name="GreyWhite">#F7F7F7</color>
     <color name="action_bar_black_title_1f1f1f">#1f1f1f</color>
@@ -113,7 +113,7 @@
     <color name="transparent">#00000000</color>
     <color name="white">#FFFFFF</color>
     <declare-styleable name="PullToRefresh"><attr format="reference|color" name="ptrRefreshableViewBackground"/><attr format="reference|color" name="ptrHeaderBackground"/><attr format="reference|color" name="ptrHeaderBackgroundStart"/><attr format="reference|color" name="ptrHeaderBackgroundEnd"/><attr format="reference|color" name="ptrHeaderTextColor"/><attr format="reference|color" name="ptrHeaderSubTextColor"/><attr format="reference" name="ptrHeaderTextAppearance"/><attr format="reference" name="ptrHeaderSubTextAppearance"/><attr name="ptrMode"><flag name="disabled" value="0x0"/><flag name="pullFromStart" value="0x1"/><flag name="pullFromEnd" value="0x2"/><flag name="both" value="0x3"/><flag name="manualOnly" value="0x4"/><flag name="pullDownFromTop" value="0x1"/><flag name="pullUpFromBottom" value="0x2"/></attr><attr format="reference|boolean" name="ptrShowIndicator"/><attr format="reference" name="ptrDrawable"/><attr format="reference" name="ptrDrawableStart"/><attr format="reference" name="ptrDrawableEnd"/><attr format="reference|boolean" name="ptrOverScroll"/><attr name="ptrAnimationStyle"><flag name="rotate" value="0x0"/><flag name="flip" value="0x1"/></attr><attr format="reference|boolean" name="ptrScrollingWhileRefreshingEnabled"/><attr format="reference|boolean" name="ptrListViewExtrasEnabled"/><attr format="reference|boolean" name="ptrRotateDrawableWhilePulling"/><attr format="reference|color" name="ptrAdapterViewBackground"/><attr format="reference" name="ptrDrawableTop"/><attr format="reference" name="ptrDrawableBottom"/></declare-styleable>
-    <!-- From: file:/D:/nim_demo/uikit/res/values/dimens.xml -->
+    <!-- From: file:/D:/Github/YouTeachILearn/uikit/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="action_bar_height">48dip</dimen>
     <dimen name="avatar_size_default">50dip</dimen>
@@ -141,14 +141,14 @@
     <dimen name="dialog_text_margin_horizontal">15dip</dimen>
     <dimen name="first_load_button_bottom">10dip</dimen>
     <dimen name="head_image_margin_top">0dip</dimen>
-    <!-- From: file:/D:/nim_demo/uikit/res/values/pull_refresh_dimens.xml -->
+    <!-- From: file:/D:/Github/YouTeachILearn/uikit/res/values/pull_refresh_dimens.xml -->
     <eat-comment/>
     <dimen name="header_footer_left_right_padding">24dp</dimen>
     <dimen name="header_footer_top_bottom_padding">12dp</dimen>
     <dimen name="indicator_corner_radius">12dp</dimen>
     <dimen name="indicator_internal_padding">4dp</dimen>
     <dimen name="indicator_right_padding">10dp</dimen>
-    <!-- From: file:/D:/nim_demo/uikit/res/values/dimens.xml -->
+    <!-- From: file:/D:/Github/YouTeachILearn/uikit/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="input_panel_image_margin_bottom">3dip</dimen>
     <dimen name="input_panel_image_margin_top">20dip</dimen>
@@ -197,7 +197,7 @@
     <dimen name="text_small_size_ten_sp">10sp</dimen>
     <dimen name="thick_line_size">2px</dimen>
     <dimen name="very_samll_text_size">9sp</dimen>
-    <!-- From: file:/D:/nim_demo/uikit/res/values/ids.xml -->
+    <!-- From: file:/D:/Github/YouTeachILearn/uikit/res/values/ids.xml -->
     <eat-comment/>
     <item name="drag_handle" type="id"/>
     <item name="launch_product_query" type="id"/>
@@ -206,7 +206,7 @@
     <item name="pullToRefresh_scrollview_id" type="id"/>
     <item name="pullToRefresh_webview_id" type="id"/>
     <item name="return_scan_result" type="id"/>
-    <!-- From: file:/D:/nim_demo/uikit/res/values/strings.xml -->
+    <!-- From: file:/D:/Github/YouTeachILearn/uikit/res/values/strings.xml -->
     <eat-comment/>
     <string name="add">添加</string>
     <string name="advanced_team">高级群</string>
@@ -292,7 +292,7 @@
     <string name="picker_image_send_select">完成（%d）</string>
     <string name="picture_save_fail">图片保存失败</string>
     <string name="picture_save_to">图片已保存到手机</string>
-    <!-- From: file:/D:/nim_demo/uikit/res/values/pull_refresh_strings.xml -->
+    <!-- From: file:/D:/Github/YouTeachILearn/uikit/res/values/pull_refresh_strings.xml -->
     <eat-comment/>
     <string name="pull_to_refresh_from_bottom_pull_label">@string/pull_to_refresh_up</string>
     <string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing</string>
@@ -304,7 +304,7 @@
     <string name="pull_to_refresh_release">松开刷新</string>
     <string name="pull_to_refresh_release_label">@string/pull_to_refresh_release</string>
     <string name="pull_to_refresh_up">上拉刷新</string>
-    <!-- From: file:/D:/nim_demo/uikit/res/values/strings.xml -->
+    <!-- From: file:/D:/Github/YouTeachILearn/uikit/res/values/strings.xml -->
     <eat-comment/>
     <string name="quit_team">退出群</string>
     <string name="quit_team_failed">退群失败</string>
@@ -389,7 +389,7 @@
     <string name="voice_to_text">转文字</string>
     <string name="waitfor_image_local">正在打开相册，请稍候\u2026</string>
     <string name="without_content">暂无</string>
-    <!-- From: file:/D:/nim_demo/uikit/res/values/styles.xml -->
+    <!-- From: file:/D:/Github/YouTeachILearn/uikit/res/values/styles.xml -->
     <eat-comment/>
     <style name="DarkActionBarTitleTextStyle" parent="@style/TextAppearance.AppCompat.Widget.ActionBar.Title">
         <item name="android:textSize">17sp</item>

@@ -45,4 +45,4 @@
         android:layout_below="@+id/attribute"
         android:background="@color/color_split_line_d9d9d9" />
 
-</LinearLayout><!-- From: file:/D:/nim_demo/demo/res/layout/user_profile_birth_layout.xml -->
+</LinearLayout><!-- From: file:/D:/Github/YouTeachILearn/demo/res/layout/user_profile_birth_layout.xml -->

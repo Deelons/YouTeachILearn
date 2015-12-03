@@ -5,4 +5,4 @@
     <item android:drawable="@color/contact_list_hover" android:state_focused="true"></item>
     <item android:drawable="@android:color/transparent"></item>
 
-</selector><!-- From: file:/D:/nim_demo/uikit/res/drawable/nim_contact_list_item_selecter.xml --><!-- From: file:/D:/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable/nim_contact_list_item_selecter.xml -->
+</selector><!-- From: file:/D:/Github/YouTeachILearn/uikit/res/drawable/nim_contact_list_item_selecter.xml --><!-- From: file:/D:/Github/YouTeachILearn/uikit/build/intermediates/bundles/debug/res/drawable/nim_contact_list_item_selecter.xml -->

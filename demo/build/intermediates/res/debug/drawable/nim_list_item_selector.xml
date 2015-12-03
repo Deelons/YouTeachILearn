@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<selector xmlns:android="http://schemas.android.com/apk/res/android">
-
-    <item android:drawable="@color/split_line_grey_color_d9d9d9" android:state_pressed="true"/>
-    <item android:drawable="@color/white"/>
-
-</selector><!-- From: file:/D:/学习/Learn%20to%20Android/nim_demo/uikit/res/drawable/nim_list_item_selector.xml --><!-- From: file:/D:/学习/Learn%20to%20Android/nim_demo/demo/build/intermediates/exploded-aar/nim_demo/uikit/unspecified/res/drawable/nim_list_item_selector.xml -->

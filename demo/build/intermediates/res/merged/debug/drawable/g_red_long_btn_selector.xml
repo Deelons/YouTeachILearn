@@ -5,4 +5,4 @@
     <item android:drawable="@drawable/g_red_long_btn_pressed" android:state_pressed="true"/>
     <item android:drawable="@drawable/g_red_long_btn_nomal" />
 
-</selector><!-- From: file:/D:/nim_demo/demo/res/drawable/g_red_long_btn_selector.xml -->
+</selector><!-- From: file:/D:/Github/YouTeachILearn/demo/res/drawable/g_red_long_btn_selector.xml -->

@@ -61,4 +61,4 @@
             android:id="@+id/team_authentication_layout"
             layout="@layout/nim_advanced_team_info_divider_item" />
     </LinearLayout>
-</ScrollView><!-- From: file:/D:/nim_demo/uikit/res/layout/nim_advanced_team_create_layout.xml --><!-- From: file:/D:/nim_demo/uikit/build/intermediates/bundles/debug/res/layout/nim_advanced_team_create_layout.xml -->
+</ScrollView><!-- From: file:/D:/Github/YouTeachILearn/uikit/res/layout/nim_advanced_team_create_layout.xml --><!-- From: file:/D:/Github/YouTeachILearn/uikit/build/intermediates/bundles/debug/res/layout/nim_advanced_team_create_layout.xml -->

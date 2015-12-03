@@ -15,4 +15,4 @@
         android:fadingEdge="none"
         android:listSelector="@color/transparent"
         android:scrollbars="none" />
-</LinearLayout><!-- From: file:/D:/nim_demo/demo/res/layout/no_disturb_activity.xml -->
+</LinearLayout><!-- From: file:/D:/Github/YouTeachILearn/demo/res/layout/no_disturb_activity.xml -->

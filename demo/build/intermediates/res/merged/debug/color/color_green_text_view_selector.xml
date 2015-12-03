@@ -3,4 +3,4 @@
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:state_enabled="false" android:color="#F0F3F7"/>
     <item android:color="@android:color/white" />
-</selector><!-- From: file:/D:/nim_demo/uikit/res/color/color_green_text_view_selector.xml --><!-- From: file:/D:/nim_demo/demo/build/intermediates/exploded-aar/nim_demo/uikit/unspecified/res/color/color_green_text_view_selector.xml -->
+</selector><!-- From: file:/D:/Github/YouTeachILearn/uikit/res/color/color_green_text_view_selector.xml --><!-- From: file:/D:/Github/YouTeachILearn/demo/build/intermediates/exploded-aar/YouTeachILearn/uikit/unspecified/res/color/color_green_text_view_selector.xml -->

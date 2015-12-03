@@ -2,4 +2,4 @@
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
 	<item android:color="#000000" android:state_enabled="true"  />
 	<item android:color="#66000000" android:state_enabled="false"/>
-</selector><!-- From: file:/D:/nim_demo/uikit/res/color/color_picker_preview_selector.xml -->
+</selector><!-- From: file:/D:/Github/YouTeachILearn/uikit/res/color/color_picker_preview_selector.xml -->

@@ -4,4 +4,4 @@
     <item android:drawable="@drawable/nim_moon_page_selected" android:state_selected="true"/>
     <item android:drawable="@drawable/nim_moon_page_unselected"/>
 
-</selector><!-- From: file:/D:/nim_demo/uikit/res/drawable/nim_view_pager_indicator_selector.xml -->
+</selector><!-- From: file:/D:/Github/YouTeachILearn/uikit/res/drawable/nim_view_pager_indicator_selector.xml -->

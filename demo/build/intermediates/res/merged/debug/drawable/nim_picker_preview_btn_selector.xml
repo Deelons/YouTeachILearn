@@ -5,4 +5,4 @@
     <item android:drawable="@drawable/nim_picker_preview_disable" android:state_enabled="false"></item>
     <item android:drawable="@drawable/nim_picker_preview_normal"></item>
 
-</selector><!-- From: file:/D:/nim_demo/uikit/res/drawable/nim_picker_preview_btn_selector.xml --><!-- From: file:/D:/nim_demo/demo/build/intermediates/exploded-aar/nim_demo/uikit/unspecified/res/drawable/nim_picker_preview_btn_selector.xml -->
+</selector><!-- From: file:/D:/Github/YouTeachILearn/uikit/res/drawable/nim_picker_preview_btn_selector.xml --><!-- From: file:/D:/Github/YouTeachILearn/demo/build/intermediates/exploded-aar/YouTeachILearn/uikit/unspecified/res/drawable/nim_picker_preview_btn_selector.xml -->

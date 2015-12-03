@@ -4,4 +4,4 @@
     <item android:drawable="@drawable/actionbar_blue_bg_pressed" android:state_pressed="true"/>
     <item android:drawable="@drawable/actionbar_blue_bg" android:state_pressed="false"/>
 
-</selector><!-- From: file:/D:/nim_demo/demo/res/drawable/actionbar_item_blue_background_selector.xml -->
+</selector><!-- From: file:/D:/Github/YouTeachILearn/demo/res/drawable/actionbar_item_blue_background_selector.xml -->

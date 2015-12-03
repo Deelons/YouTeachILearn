@@ -6,4 +6,4 @@
         android:icon="@drawable/action_bar_search_view_icon"
         android:title=""
         app:showAsAction="always" />
-</menu><!-- From: file:/D:/nim_demo/demo/res/menu/rts_activity_menu.xml -->
+</menu><!-- From: file:/D:/Github/YouTeachILearn/demo/res/menu/rts_activity_menu.xml -->

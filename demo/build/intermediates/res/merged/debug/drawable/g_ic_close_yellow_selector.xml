@@ -3,4 +3,4 @@
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:drawable="@drawable/g_ic_close_yellow"  android:state_pressed="false"/>
     <item android:drawable="@drawable/g_ic_close_yellow_pressed" android:state_pressed="true" />
-</selector><!-- From: file:/D:/nim_demo/demo/res/drawable/g_ic_close_yellow_selector.xml -->
+</selector><!-- From: file:/D:/Github/YouTeachILearn/demo/res/drawable/g_ic_close_yellow_selector.xml -->

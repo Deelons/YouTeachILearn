@@ -122,4 +122,4 @@
         android:text="@string/remove_member"
         android:textSize="17sp"
         android:textColor="@color/white" />
-</LinearLayout><!-- From: file:/D:/nim_demo/uikit/res/layout/nim_advanced_team_member_info_layout.xml --><!-- From: file:/D:/nim_demo/uikit/build/intermediates/bundles/debug/res/layout/nim_advanced_team_member_info_layout.xml -->
+</LinearLayout><!-- From: file:/D:/Github/YouTeachILearn/uikit/res/layout/nim_advanced_team_member_info_layout.xml --><!-- From: file:/D:/Github/YouTeachILearn/uikit/build/intermediates/bundles/debug/res/layout/nim_advanced_team_member_info_layout.xml -->

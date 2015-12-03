@@ -58,4 +58,4 @@
         layout="@layout/nim_contact_loading_frame"
         android:visibility="gone"/>
 
-</RelativeLayout><!-- From: file:/D:/nim_demo/uikit/res/layout/nim_contacts.xml --><!-- From: file:/D:/nim_demo/uikit/build/intermediates/bundles/debug/res/layout/nim_contacts.xml -->
+</RelativeLayout><!-- From: file:/D:/Github/YouTeachILearn/uikit/res/layout/nim_contacts.xml --><!-- From: file:/D:/Github/YouTeachILearn/uikit/build/intermediates/bundles/debug/res/layout/nim_contacts.xml -->

@@ -31,4 +31,4 @@
 
     <include layout="@layout/nim_message_item_thumb_progress_bar_text"/>
 
-</FrameLayout><!-- From: file:/D:/nim_demo/uikit/res/layout/nim_message_item_video.xml --><!-- From: file:/D:/nim_demo/demo/build/intermediates/exploded-aar/nim_demo/uikit/unspecified/res/layout/nim_message_item_video.xml -->
+</FrameLayout><!-- From: file:/D:/Github/YouTeachILearn/uikit/res/layout/nim_message_item_video.xml --><!-- From: file:/D:/Github/YouTeachILearn/demo/build/intermediates/exploded-aar/YouTeachILearn/uikit/unspecified/res/layout/nim_message_item_video.xml -->

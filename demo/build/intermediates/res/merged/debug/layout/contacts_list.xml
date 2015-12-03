@@ -6,4 +6,4 @@
     android:layout_height="fill_parent"
     android:background="@drawable/skin_global_bg"
     android:orientation="vertical">
-</LinearLayout><!-- From: file:/D:/nim_demo/demo/res/layout/contacts_list.xml -->
+</LinearLayout><!-- From: file:/D:/Github/YouTeachILearn/demo/res/layout/contacts_list.xml -->

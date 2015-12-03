@@ -79,4 +79,4 @@
         android:layout_alignParentBottom="true"
         android:layout_toRightOf="@+id/settings_item_icon" />
 
-</RelativeLayout><!-- From: file:/D:/nim_demo/demo/res/layout/setting_item_toggle.xml -->
+</RelativeLayout><!-- From: file:/D:/Github/YouTeachILearn/demo/res/layout/setting_item_toggle.xml -->

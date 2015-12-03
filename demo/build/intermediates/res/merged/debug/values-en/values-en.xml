@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/D:/nim_demo/demo/res/values-en/strings.xml -->
+    <!-- From: file:/D:/Github/YouTeachILearn/demo/res/values-en/strings.xml -->
     <eat-comment/>
     <string name="app_name">网易云信</string>
     <string name="nim_status_bar_audio_message">received an audio message from %1$s</string>

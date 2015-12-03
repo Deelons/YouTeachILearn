@@ -9,4 +9,4 @@
         android:id="@+id/contact_loading_frame"
         layout="@layout/nim_contact_loading_frame" />
 
-</LinearLayout><!-- From: file:/D:/nim_demo/demo/res/layout/main_tab_fragment_container.xml -->
+</LinearLayout><!-- From: file:/D:/Github/YouTeachILearn/demo/res/layout/main_tab_fragment_container.xml -->

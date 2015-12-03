@@ -7,4 +7,4 @@
     <item android:drawable="@drawable/nim_music_icon_play" android:state_focused="true"></item>
     <item android:drawable="@drawable/nim_music_icon_play"></item>
 
-</selector><!-- From: file:/D:/nim_demo/uikit/res/drawable/nim_play_btn_select.xml --><!-- From: file:/D:/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable/nim_play_btn_select.xml -->
+</selector><!-- From: file:/D:/Github/YouTeachILearn/uikit/res/drawable/nim_play_btn_select.xml --><!-- From: file:/D:/Github/YouTeachILearn/uikit/build/intermediates/bundles/debug/res/drawable/nim_play_btn_select.xml -->

@@ -26,4 +26,4 @@
         android:text="无人接听"
         android:textColor="@color/color_grey_999999"
         android:textSize="@dimen/text_size_14"/>
-</LinearLayout><!-- From: file:/D:/nim_demo/demo/res/layout/nim_message_item_avchat.xml -->
+</LinearLayout><!-- From: file:/D:/Github/YouTeachILearn/demo/res/layout/nim_message_item_avchat.xml -->

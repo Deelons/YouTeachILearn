@@ -13,4 +13,4 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:visibility="gone"/>
-</LinearLayout><!-- From: file:/D:/nim_demo/uikit/res/layout/nim_message_activity_bottom_layout.xml --><!-- From: file:/D:/nim_demo/uikit/build/intermediates/bundles/debug/res/layout/nim_message_activity_bottom_layout.xml -->
+</LinearLayout><!-- From: file:/D:/Github/YouTeachILearn/uikit/res/layout/nim_message_activity_bottom_layout.xml --><!-- From: file:/D:/Github/YouTeachILearn/uikit/build/intermediates/bundles/debug/res/layout/nim_message_activity_bottom_layout.xml -->

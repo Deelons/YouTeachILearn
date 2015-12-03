@@ -5,4 +5,4 @@
     <item android:drawable="@color/green_4DC0A4" android:state_pressed="false"></item>
     <item android:drawable="@color/green_4DC0A4"></item>
 
-</selector><!-- From: file:/D:/nim_demo/uikit/res/drawable/nim_recent_contact_sticky_selecter.xml --><!-- From: file:/D:/nim_demo/demo/build/intermediates/exploded-aar/nim_demo/uikit/unspecified/res/drawable/nim_recent_contact_sticky_selecter.xml -->
+</selector><!-- From: file:/D:/Github/YouTeachILearn/uikit/res/drawable/nim_recent_contact_sticky_selecter.xml --><!-- From: file:/D:/Github/YouTeachILearn/demo/build/intermediates/exploded-aar/YouTeachILearn/uikit/unspecified/res/drawable/nim_recent_contact_sticky_selecter.xml -->

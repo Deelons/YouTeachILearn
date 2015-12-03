@@ -5,4 +5,4 @@
     <item android:drawable="@color/action_bar_black_title_1f1f1f" android:state_pressed="true"></item>
     <item android:drawable="@color/action_bar_black_title_color"></item>
 
-</selector><!-- From: file:/D:/nim_demo/uikit/res/drawable/nim_popup_menu_item_black_selector.xml --><!-- From: file:/D:/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable/nim_popup_menu_item_black_selector.xml -->
+</selector><!-- From: file:/D:/Github/YouTeachILearn/uikit/res/drawable/nim_popup_menu_item_black_selector.xml --><!-- From: file:/D:/Github/YouTeachILearn/uikit/build/intermediates/bundles/debug/res/drawable/nim_popup_menu_item_black_selector.xml -->

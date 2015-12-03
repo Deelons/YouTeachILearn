@@ -5,4 +5,4 @@
     <item android:state_focused="true" android:drawable="@color/grey_white_has_alpha"/>
     <item android:drawable="@color/transparent"/>
 
-</selector><!-- From: file:/D:/nim_demo/demo/res/drawable/background_tab.xml -->
+</selector><!-- From: file:/D:/Github/YouTeachILearn/demo/res/drawable/background_tab.xml -->

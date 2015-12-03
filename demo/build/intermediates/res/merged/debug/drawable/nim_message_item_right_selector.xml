@@ -4,4 +4,4 @@
     <item android:drawable="@drawable/nim_message_right_blue_bg_pressed" android:state_pressed="true"/>
     <item android:drawable="@drawable/nim_message_right_blue_bg"/> <!-- default -->
 
-</selector><!-- From: file:/D:/nim_demo/uikit/res/drawable/nim_message_item_right_selector.xml --><!-- From: file:/D:/nim_demo/demo/build/intermediates/exploded-aar/nim_demo/uikit/unspecified/res/drawable/nim_message_item_right_selector.xml -->
+</selector><!-- From: file:/D:/Github/YouTeachILearn/uikit/res/drawable/nim_message_item_right_selector.xml --><!-- From: file:/D:/Github/YouTeachILearn/demo/build/intermediates/exploded-aar/YouTeachILearn/uikit/unspecified/res/drawable/nim_message_item_right_selector.xml -->

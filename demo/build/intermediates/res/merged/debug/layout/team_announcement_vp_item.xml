@@ -24,4 +24,4 @@
         android:text="@string/team_announce_content"
         android:textColor="@color/color_yellow_b39729"
         android:textSize="@dimen/text_size_13" />
-</RelativeLayout><!-- From: file:/D:/nim_demo/demo/res/layout/team_announcement_vp_item.xml -->
+</RelativeLayout><!-- From: file:/D:/Github/YouTeachILearn/demo/res/layout/team_announcement_vp_item.xml -->

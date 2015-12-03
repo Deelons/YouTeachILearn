@@ -35,4 +35,4 @@
         android:layout_height="@dimen/dark_line_size"
         android:background="@color/color_activity_blue_bg" />
 
-</LinearLayout><!-- From: file:/D:/nim_demo/uikit/res/layout/nim_easy_alert_dialog_title.xml -->
+</LinearLayout><!-- From: file:/D:/Github/YouTeachILearn/uikit/res/layout/nim_easy_alert_dialog_title.xml -->

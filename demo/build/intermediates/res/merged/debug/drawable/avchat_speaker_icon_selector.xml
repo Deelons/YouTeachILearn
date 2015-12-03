@@ -7,4 +7,4 @@
     <item android:drawable="@drawable/avchat_speaker_icon_checked" android:state_selected="true" />
     <item android:drawable="@drawable/avchat_speaker_icon_normal" />
 
-</selector><!-- From: file:/D:/nim_demo/demo/res/drawable/avchat_speaker_icon_selector.xml -->
+</selector><!-- From: file:/D:/Github/YouTeachILearn/demo/res/drawable/avchat_speaker_icon_selector.xml -->

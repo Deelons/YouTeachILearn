@@ -50,4 +50,4 @@
             android:textColor="@color/color_grey_555555"
             android:textSize="13sp"/>
     </LinearLayout>
-</RelativeLayout><!-- From: file:/D:/nim_demo/uikit/res/layout/nim_message_item_unknown.xml -->
+</RelativeLayout><!-- From: file:/D:/Github/YouTeachILearn/uikit/res/layout/nim_message_item_unknown.xml -->

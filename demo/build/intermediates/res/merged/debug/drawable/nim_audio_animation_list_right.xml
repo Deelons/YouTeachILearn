@@ -5,4 +5,4 @@
   	<item android:drawable="@drawable/nim_audio_animation_list_right_1" android:duration="300"></item>
   	<item android:drawable="@drawable/nim_audio_animation_list_right_2" android:duration="300"></item>
   	<item android:drawable="@drawable/nim_audio_animation_list_right_3" android:duration="300"></item>
-</animation-list><!-- From: file:/D:/nim_demo/uikit/res/drawable/nim_audio_animation_list_right.xml --><!-- From: file:/D:/nim_demo/demo/build/intermediates/exploded-aar/nim_demo/uikit/unspecified/res/drawable/nim_audio_animation_list_right.xml -->
+</animation-list><!-- From: file:/D:/Github/YouTeachILearn/uikit/res/drawable/nim_audio_animation_list_right.xml --><!-- From: file:/D:/Github/YouTeachILearn/demo/build/intermediates/exploded-aar/YouTeachILearn/uikit/unspecified/res/drawable/nim_audio_animation_list_right.xml -->

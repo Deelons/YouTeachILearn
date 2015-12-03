@@ -20,4 +20,4 @@
         android:listSelector="@android:color/transparent"
         android:smoothScrollbar="true" />
 
-</RelativeLayout><!-- From: file:/D:/nim_demo/demo/res/layout/message_search_activity.xml -->
+</RelativeLayout><!-- From: file:/D:/Github/YouTeachILearn/demo/res/layout/message_search_activity.xml -->

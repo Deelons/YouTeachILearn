@@ -6,4 +6,4 @@
     <item android:drawable="@drawable/avchat_refuse_bg_pressed" android:state_enabled="false"></item>
     <item android:drawable="@drawable/avchat_refuse_bg_normal"></item>
 
-</selector><!-- From: file:/D:/nim_demo/demo/res/drawable/avchat_refuse_bg_selector.xml -->
+</selector><!-- From: file:/D:/Github/YouTeachILearn/demo/res/drawable/avchat_refuse_bg_selector.xml -->

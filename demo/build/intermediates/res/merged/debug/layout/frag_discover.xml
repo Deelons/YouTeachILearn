@@ -1,13 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical"
-    android:layout_width="match_parent"
+<com.netease.nim.demo.common.MyScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:id="@+id/my_scroll_view"
     android:layout_height="match_parent"
-    android:background="#fff">
+    >
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:orientation="horizontal"
+            android:background="@android:color/background_light"
+            android:baselineAligned="false">
+            <LinearLayout
+                android:id="@+id/first_column"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical">
 
-    <Button
-        android:id="@+id/testBtn"
-        android:layout_width="50dp"
-        android:layout_height="50dp"
-        android:layout_gravity="center"/>
-</LinearLayout><!-- From: file:/D:/nim_demo/demo/res/layout/frag_discover.xml -->
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/second_column"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/third_column"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+
+</com.netease.nim.demo.common.MyScrollView>
+<!-- From: file:/D:/Github/YouTeachILearn/demo/res/layout/frag_discover.xml -->

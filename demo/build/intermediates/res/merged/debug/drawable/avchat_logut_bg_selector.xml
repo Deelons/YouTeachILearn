@@ -5,4 +5,4 @@
     <item android:drawable="@color/color_c2364b" android:state_pressed="true"></item>
     <item android:drawable="@color/color_f5455e"></item>
 
-</selector><!-- From: file:/D:/nim_demo/demo/res/drawable/avchat_logut_bg_selector.xml -->
+</selector><!-- From: file:/D:/Github/YouTeachILearn/demo/res/drawable/avchat_logut_bg_selector.xml -->

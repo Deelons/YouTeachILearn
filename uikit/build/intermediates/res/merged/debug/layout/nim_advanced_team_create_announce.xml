@@ -27,4 +27,4 @@
         android:background="@drawable/nim_blue_edit_text_bg"
         android:hint="@string/team_announce_content" />
 
-</LinearLayout><!-- From: file:/D:/nim_demo/uikit/res/layout/nim_advanced_team_create_announce.xml -->
+</LinearLayout><!-- From: file:/D:/Github/YouTeachILearn/uikit/res/layout/nim_advanced_team_create_announce.xml -->

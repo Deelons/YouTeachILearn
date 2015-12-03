@@ -5,4 +5,4 @@
     <item android:state_pressed="true" android:drawable="@color/contact_list_hover" />
     <item android:drawable="@color/transparent" />
 
-</selector><!-- From: file:/D:/nim_demo/uikit/res/drawable/nim_bottom_divider_match_parent_selector.xml --><!-- From: file:/D:/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable/nim_bottom_divider_match_parent_selector.xml -->
+</selector><!-- From: file:/D:/Github/YouTeachILearn/uikit/res/drawable/nim_bottom_divider_match_parent_selector.xml --><!-- From: file:/D:/Github/YouTeachILearn/uikit/build/intermediates/bundles/debug/res/drawable/nim_bottom_divider_match_parent_selector.xml -->

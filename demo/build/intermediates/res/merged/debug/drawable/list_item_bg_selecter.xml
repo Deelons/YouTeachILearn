@@ -3,4 +3,4 @@
     <item android:drawable="@color/im_list_select_hover" android:state_pressed="true"></item>
     <item android:drawable="@color/transparent" android:state_pressed="false"></item>
     <item android:drawable="@color/transparent"></item>
-</selector><!-- From: file:/D:/nim_demo/demo/res/drawable/list_item_bg_selecter.xml -->
+</selector><!-- From: file:/D:/Github/YouTeachILearn/demo/res/drawable/list_item_bg_selecter.xml -->

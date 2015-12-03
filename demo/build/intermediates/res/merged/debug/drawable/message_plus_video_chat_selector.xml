@@ -4,4 +4,4 @@
     <item android:drawable="@drawable/message_plus_video_chat_pressed" android:state_pressed="true"/>
     <item android:drawable="@drawable/message_plus_video_chat_normal" android:state_pressed="false"/>
 
-</selector><!-- From: file:/D:/nim_demo/demo/res/drawable/message_plus_video_chat_selector.xml -->
+</selector><!-- From: file:/D:/Github/YouTeachILearn/demo/res/drawable/message_plus_video_chat_selector.xml -->

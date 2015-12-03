@@ -17,4 +17,4 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/tabs" />
 
-</RelativeLayout><!-- From: file:/D:/nim_demo/demo/res/layout/main.xml -->
+</RelativeLayout><!-- From: file:/D:/Github/YouTeachILearn/demo/res/layout/main.xml -->

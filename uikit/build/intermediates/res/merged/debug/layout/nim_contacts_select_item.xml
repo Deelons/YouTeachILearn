@@ -54,4 +54,4 @@
         android:layout_marginRight="10dp"
         android:layout_toRightOf="@id/imgSelect" />
 
-</RelativeLayout><!-- From: file:/D:/nim_demo/uikit/res/layout/nim_contacts_select_item.xml -->
+</RelativeLayout><!-- From: file:/D:/Github/YouTeachILearn/uikit/res/layout/nim_contacts_select_item.xml -->

@@ -36,4 +36,4 @@
         android:background="@drawable/nim_message_unread_news_icon_selector"
         android:contentDescription="@string/empty" />
 
-</LinearLayout><!-- From: file:/D:/nim_demo/uikit/res/layout/nim_new_message_tip_layout.xml --><!-- From: file:/D:/nim_demo/uikit/build/intermediates/bundles/debug/res/layout/nim_new_message_tip_layout.xml -->
+</LinearLayout><!-- From: file:/D:/Github/YouTeachILearn/uikit/res/layout/nim_new_message_tip_layout.xml --><!-- From: file:/D:/Github/YouTeachILearn/uikit/build/intermediates/bundles/debug/res/layout/nim_new_message_tip_layout.xml -->

@@ -5,4 +5,4 @@
     <item android:drawable="@drawable/icon_delete_pressed" android:state_enabled="false"/>
     <item android:drawable="@drawable/icon_delete_normal"/>
 
-</selector><!-- From: file:/D:/nim_demo/demo/res/drawable/notification_delete_selector.xml -->
+</selector><!-- From: file:/D:/Github/YouTeachILearn/demo/res/drawable/notification_delete_selector.xml -->

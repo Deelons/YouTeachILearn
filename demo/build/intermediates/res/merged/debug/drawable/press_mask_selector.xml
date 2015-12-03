@@ -2,4 +2,4 @@
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:state_pressed="true" android:drawable="@color/press_mask"/>
     <item android:drawable="@color/transparent"/>
-</selector><!-- From: file:/D:/nim_demo/demo/res/drawable/press_mask_selector.xml -->
+</selector><!-- From: file:/D:/Github/YouTeachILearn/demo/res/drawable/press_mask_selector.xml -->

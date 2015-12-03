@@ -227,4 +227,8 @@
     <string name="nickname_empty">昵称不能为空</string>
     <string name="title_activity_main2">Main2Activity</string>
     <string name="title_activity_test_for_main">TestForMainActivity</string>
+
+    <string name="border_top">Border Top</string>
+    <string name="border_bottom">Border Bottom</string>
+    <string name="image_url">Image Url</string>
 </resources>

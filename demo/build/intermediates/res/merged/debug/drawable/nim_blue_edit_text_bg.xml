@@ -11,4 +11,4 @@
             <solid android:color="@color/white"></solid>
         </shape>
     </item>
-</layer-list><!-- From: file:/D:/nim_demo/uikit/res/drawable/nim_blue_edit_text_bg.xml --><!-- From: file:/D:/nim_demo/demo/build/intermediates/exploded-aar/nim_demo/uikit/unspecified/res/drawable/nim_blue_edit_text_bg.xml -->
+</layer-list><!-- From: file:/D:/Github/YouTeachILearn/uikit/res/drawable/nim_blue_edit_text_bg.xml --><!-- From: file:/D:/Github/YouTeachILearn/demo/build/intermediates/exploded-aar/YouTeachILearn/uikit/unspecified/res/drawable/nim_blue_edit_text_bg.xml -->
